@@ -1,1 +1,1 @@
-# Foodiex-UI-UX
+# Foodiex-UI/UX
